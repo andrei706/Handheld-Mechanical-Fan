@@ -4,7 +4,7 @@ This handheld fan is a portable, battery-free cooling device powered by a manual
 
 This repository will contain the fusion files with the assembly and STL files needed for 3D printing.
 
-## Pieces used
+## Pieces
 - Main housing (upper and lower shell) for holding everything together
 - Action lever to start the motion
 - Connecting bar with two holes to link the lever to the Drive gear
